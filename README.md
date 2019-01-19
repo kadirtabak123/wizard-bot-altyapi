@@ -1,4 +1,4 @@
-**DİSCORD BOT DERSLERİ**
+**BEKBERKA**
 
 = = = = = = = = = = = = = =
 - ```Bu Altyapı Wizard Bot Sahibine Aittir```

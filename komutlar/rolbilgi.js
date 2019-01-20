@@ -30,6 +30,6 @@ exports.conf = {
 
 exports.help = {
   name: 'rolinfo',
-  description: 'rolinfo | Rol hakkında bilgi verir.',
+  description: 'Rol hakkında bilgi verir.',
   usage: 'rolinfo <rolismi>'
 };

@@ -1,6 +1,6 @@
 Wizard Bot Altyapı Projesine Hoşgeldin!
 =================
- Bu Dosya Tamamen `Harry Potter'e Aittir`. Bot Altyapısını Sizlerin Kullanması İçin Verdim Gerekli Modüller Yüklüdür..!
+ Bu Dosya Tamamen `BekBerKa'ya Aittir`. Bot Altyapısını Sizlerin Kullanması İçin Verdim Gerekli Modüller Yüklüdür..!
 
 [Botumuzun Destek Sunucusuna Gelmek İçin Tıkla!](https://discord.gg/yKg2xsM)
 
